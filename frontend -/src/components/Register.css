@@ -1,0 +1,113 @@
+
+ 
+.wrapper {
+    width: 500px;
+    background: linear-gradient(rgb(251, 243, 243), rgb(229, 220, 220)); 
+    border-radius: 10px;
+    margin: 50px auto;
+    padding: 40px 40px;
+    border: 2px solid #b8b2b2;
+    box-shadow: 0 0 10px rgba(118, 97, 97, 0.5);
+}
+
+.wrapper h1 {
+    font-size: 40px;
+    text-align: center;
+}
+/*
+.wrapper .input-box {
+    width: 120%;
+    height: 50px;
+    margin: 20px 20px;
+    border-radius: 5px;
+}
+
+#form{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+ */
+
+   
+ .form-button {
+    text-align: center;
+  }
+  
+
+.shero{
+    height: 650px;
+    width: 58lh;
+    margin-top: -40px;
+     background-image: url("https://wallpaper-house.com/data/out/10/wallpaper2you_456040.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    background-color: #000015; 
+  }
+ 
+   /* Login.css */
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+    background-color: #f8f9fa; /* Add your desired background color */
+  }
+  
+  .wrapper {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    background-color: #ffffff; /* Add your desired background color */
+    border-radius: 8px;
+  }
+  
+  .form-input {
+    margin-bottom: 20px;
+  }
+  
+  .form-input input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ced4da; /* Add your desired border color */
+    border-radius: 5px;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .form-input input:hover,
+  .form-input input:focus {
+    border-color: #007bff; /* Add your desired hover/focus border color */
+  }
+
+  .form-button button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff; /* Add your desired button color */
+    color: #ffffff; /* Add your desired button text color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+
+  }
+  
+  .form-button button:hover {
+    background-color: #0056b3; /* Add your desired hover background color */
+  }
+  
+  .register-link {
+    text-align: center;
+    margin-top: 15px;
+  }
+  
+  .register-link a {
+    color: #007bff; /* Add your desired link color */
+    text-decoration: none;
+  }
+  
+  .register-link a:hover {
+    text-decoration: underline;
+  }
+  
