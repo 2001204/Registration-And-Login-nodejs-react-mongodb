@@ -1,18 +1,20 @@
 # Registration-and-login-using-html-css-node-express-mongodb-react
 
 https://github.com/2001204/Registration-And-Login-nodejs-react-mongodb/tree/main.
+![Screenshot 2023-12-27 014149](https://github.com/2001204/Registration-And-Login-nodejs-react-mongodb/assets/126748063/7e9f6799-c13e-45e2-ad53-5d829937da99)
 
-![Uploading image.png…]()
+
+**Regstration Page**
+![Screenshot 2023-12-27 014614](https://github.com/2001204/Registration-And-Login-nodejs-react-mongodb/assets/126748063/1e88b20a-fab8-4dd1-b9f3-fb0fe09060dd)
+
+**Login Page**
+![Screenshot 2023-12-27 014711](https://github.com/2001204/Registration-And-Login-nodejs-react-mongodb/assets/126748063/06252aca-43b7-45fa-af28-30a11ce8e80e)
 
 
-Regstration Page
-![Alt text](image.png)
+**Welcome page after login**
+![Screenshot 2023-12-27 014907](https://github.com/2001204/Registration-And-Login-nodejs-react-mongodb/assets/126748063/99f070ee-7270-46fd-947d-11b88ace6ce2)
 
-Login Page
-![Alt text](image-1.png)
 
-Welcome page after login
-![Alt text](image-2.png)
+**MOngoDB**
 
-MOngoDB
-![Alt text](image-3.png)
+![Uploading Screenshot 2023-12-27 020224.png…]()
